@@ -1,7 +1,16 @@
-# spdspds
+# spdspds 
+
 spdspds 
+a Game-Changer Algorithm 
+posing the Linear Programming Performance Challenge of the Millennium! 
+4U2 implement | test | adopt | refute | disprove 
+
+arxiv.org/abs/1405.6902/ 
+archive.org/details/s-p-d-s-p-d-s/ 
+"UNBELIEVABLE O(L^1.5) WORST CASE COMPUTATIONAL COMPLEXITY ACHIEVED BY spdspds ALGORITHM FOR LINEAR PROGRAMMING PROBLEM" 
 
 This is the main paper containing the algorithm 'spdspds' (Symmetric Primal-Dual Symplex Pivot Decision Strategy). 
+
 The classical Simplex Pivoting Operation of Dantzig is redefined here as 'symplex' 
 which is a simple exchange between a basic (dependent) variable and a non-basic (independent) variable, 
 in the Tucker’s Compact Symmetric Tableau (CST) which is a unique symmetric representation 
