@@ -1,6 +1,8 @@
 # spdspds 
 
-spdspds : a Game-Changer Algorithm : posing the Linear Programming Performance Challenge of the Millennium! : 4U2 implement | test | adopt | refute | disprove 
+spdspds : a Game-Changer Algorithm : posing the Linear Programming Performance Challenge of the Millennium! 
+
+4U2 implement | test | adopt | refute | disprove 
 
 arxiv.org/abs/1405.6902/ | archive.org/details/s-p-d-s-p-d-s/ 
 
