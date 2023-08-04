@@ -29,4 +29,10 @@ then the tableau is checked for the terminal tableau type to facilitate the prob
 a termination with an infeasibility index of zero indicates optimum solution. 
 Even in the absence of an optimum solution, the versatility of the spdspds algorithm allows one to explore/determine the most suitable alternative solutions in a given context, 
 including a comprehensive parametric analysis, etc. 
-The worst case computational complexity of spdspds is shown to be O(L^1.5).
+The worst case computational complexity of spdspds is shown to be O(L^1.5). 
+
+Keywords: 	optimization, linear programming, algorithm, simplex, symplex, symmetric primal dual symplex, spdspds, computational complexity 
+
+AMS MSC Mathematics Subject Classification: 90C05 
+ACM CCS Computing Classification System: F.2.1, G.1.6 
+
