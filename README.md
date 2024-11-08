@@ -21,7 +21,7 @@ Bikarnakatte, Kulshekar Post, Mangaluru - 575005. Karnataka State, India.
 k.prasad.h@gmail.com    [+919481022946]    spdspds@gmail.com 
 https://arxiv.org/abs/1405.6902 
 https://archive.org/details/s-p-d-s-p-d-s 
-https://doi.org/10.5281/zenodo.14028226 
+https://doi.org/10.5281/zenodo.14053412 
 https://hal.archives-ouvertes.fr/hal-03087745 
 https://www.linkedin.com/in/keshavaprasadahalemane/ 
 
